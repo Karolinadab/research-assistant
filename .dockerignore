@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs / caches
+*.log
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Streamlit local state
+.streamlit/
+
+# Secrets
+.env
