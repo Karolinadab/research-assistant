@@ -1,6 +1,6 @@
 # research-assistant
 
-Project created for learning purposes (from https://learn.kodekloud.com/).
+Project created for learning purposes (from https://kode.wiki/462mo31).
 
 ## **Build Docker**
 docker build -t assistant-img .
